@@ -1,4 +1,23 @@
 # Calculus Individual Assignment
 Finding the volume of a bottle using Calculus ~ Year 2021
 
-It would be crime to read this beautiful document on anything but PDF form.
+![Maths SL IA - Arjun Gupta_page-0001](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/15bfde8d-be39-47d4-8271-d1c934edd121)
+![Maths SL IA - Arjun Gupta_page-0002](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/4d7c1030-cabc-47db-a996-372b987bba87)
+![Maths SL IA - Arjun Gupta_page-0003](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/dcec0d4f-17f1-49a8-b207-14760d66a09f)
+![Maths SL IA - Arjun Gupta_page-0004](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/b48604b4-0a99-41a1-a3cd-0fea99d05714)
+![Maths SL IA - Arjun Gupta_page-0005](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/c6edf5cc-1161-4e23-9a57-5fb24079d892)
+![Maths SL IA - Arjun Gupta_page-0006](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/3bac764d-faf5-4cbe-9076-33dcafd80f67)
+![Maths SL IA - Arjun Gupta_page-0007](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/ff8e8a86-9575-4edc-b198-b897cbb1b3a6)
+![Maths SL IA - Arjun Gupta_page-0008](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/ff85d2be-57da-4b03-a672-be28ffe08d92)
+![Maths SL IA - Arjun Gupta_page-0009](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/73c4e265-1615-4988-a7a4-94671e15822f)
+![Maths SL IA - Arjun Gupta_page-0010](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/0a0f492a-43a4-4efd-996e-b771f2061fbf)
+![Maths SL IA - Arjun Gupta_page-0011](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/122819e8-3268-4f91-bca7-5bb5e33bfb1a)
+![Maths SL IA - Arjun Gupta_page-0012](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/4e3c8dfd-d675-4cbe-bbd3-851c4fa1da04)
+![Maths SL IA - Arjun Gupta_page-0013](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/202977aa-5126-414c-831e-25a75de4c4eb)
+![Maths SL IA - Arjun Gupta_page-0014](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/fd434a3a-2b73-4928-8f5d-08968412ca71)
+![Maths SL IA - Arjun Gupta_page-0015](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/7d81d167-e8fe-45ff-bcad-b7743860a51d)
+![Maths SL IA - Arjun Gupta_page-0016](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/200c159d-d464-4e64-9b01-720f5685654f)
+![Maths SL IA - Arjun Gupta_page-0017](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/8440c160-69c1-41f5-98cf-a4075267a3e7)
+![Maths SL IA - Arjun Gupta_page-0018](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/b099fb1a-387e-4a55-95eb-d5f88ac20001)
+![Maths SL IA - Arjun Gupta_page-0019](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/03ee9af7-6e02-4653-81fb-f6b29ef7336a)
+![Maths SL IA - Arjun Gupta_page-0020](https://github.com/guptarjun117/IB-Maths-SL-Individual-Assignment/assets/105283893/6a3e5ad6-bf46-4135-ac7d-02b1d746d147)
